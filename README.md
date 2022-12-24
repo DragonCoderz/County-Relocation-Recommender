@@ -1,3 +1,6 @@
+## Demos
+  1. Demo video (by Srajan Dube): https://youtu.be/-uJTQd3eYrM
+  2. Running site (by Vinnie Khanna): https://county-recommender.azurewebsites.net/
 ## Setup Instructions
   1. Clone the GitHub repository: `git clone
 	https://github.com/mknilesh/CS6220Workspace`
